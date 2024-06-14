@@ -34,6 +34,9 @@
 - Find out TMDB CDN URL
 - Made the browse page amazing with Tailwind CSS.
 - usePopularMovies custom hooks
+- GPT Search feature
+- GPT Search Bar
+- (BONUS) Multi Language Feature in our App
 
 # Features
 
